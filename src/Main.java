@@ -20,5 +20,6 @@ public class Main {
         userService.registerWithAccount(user2);
         userService.loginWithAccount(user2);
 
+        
     }
 }
